@@ -64,9 +64,9 @@
             },
             "name": "REFERENCE_A/BRISBANE/10/2007_EPI_ISL_103644_HA",
             "node_attrs": {
-              "div": 0.0011375537238613725,
+              "div": 0.0011370853006015197,
               "num_date": {
-                "value": 2007.101300479432
+                "value": 2007.101300479442
               }
             }
           },
@@ -96,18 +96,18 @@
             },
             "name": "REFERENCE_A/Finland/9/2008_EPI_ISL_60842_HA",
             "node_attrs": {
-              "div": 0.003418000590124099,
+              "div": 0.003416627547766725,
               "num_date": {
-                "value": 2008.019164955818
+                "value": 2008.019164955828
               }
             }
           }
         ],
-        "name": "NODE_0000024",
+        "name": "NODE_0000027",
         "node_attrs": {
-          "div": 1.2458581146108377e-17,
+          "div": 1.2888193789456222e-17,
           "num_date": {
-            "value": 2006.8864202204302
+            "value": 2006.961743190727
           }
         }
       },
@@ -182,9 +182,9 @@
                 },
                 "name": "REFERENCE_A/Perth/16/2009_EPI_ISL_31055_HA",
                 "node_attrs": {
-                  "div": 0.009124086936693317,
+                  "div": 0.009120344491991072,
                   "num_date": {
-                    "value": 2009.2655715266599
+                    "value": 2009.2655715266699
                   }
                 }
               },
@@ -215,18 +215,18 @@
                 },
                 "name": "REFERENCE_A/Victoria/210/2009_EPI_ISL_76607_HA",
                 "node_attrs": {
-                  "div": 0.011407865901594665,
+                  "div": 0.011403186153660181,
                   "num_date": {
-                    "value": 2009.4188911707392
+                    "value": 2009.4188911707492
                   }
                 }
               }
             ],
-            "name": "NODE_0000025",
+            "name": "NODE_0000028",
             "node_attrs": {
-              "div": 0.007416894158573544,
+              "div": 0.007413855889927135,
               "num_date": {
-                "value": 2008.5930472711646
+                "value": 2008.612070366147
               }
             }
           },
@@ -310,9 +310,9 @@
                     },
                     "name": "REFERENCE_A/Alabama/05/2010_EPI_ISL_81372_HA",
                     "node_attrs": {
-                      "div": 0.01881979482256347,
+                      "div": 0.018812089595091043,
                       "num_date": {
-                        "value": 2010.5311430530116
+                        "value": 2010.5311430530217
                       }
                     }
                   },
@@ -337,9 +337,9 @@
                         },
                         "name": "REFERENCE_A/PERTH/10/2010_EPI_ISL_78687_HA",
                         "node_attrs": {
-                          "div": 0.01597196061120748,
+                          "div": 0.01596544020623541,
                           "num_date": {
-                            "value": 2010.3969883644422
+                            "value": 2010.3969883644522
                           }
                         }
                       },
@@ -374,27 +374,27 @@
                         },
                         "name": "REFERENCE_A/Alaska/5/2010_EPI_ISL_90589_HA",
                         "node_attrs": {
-                          "div": 0.021681158408733855,
+                          "div": 0.021672279074809647,
                           "num_date": {
-                            "value": 2010.6132785766256
+                            "value": 2010.6132785766356
                           }
                         }
                       }
                     ],
-                    "name": "NODE_0000028",
+                    "name": "NODE_0000031",
                     "node_attrs": {
-                      "div": 0.015971960611207467,
+                      "div": 0.015965440206235398,
                       "num_date": {
-                        "value": 2010.0996408126555
+                        "value": 2010.0890795854186
                       }
                     }
                   }
                 ],
-                "name": "NODE_0000027",
+                "name": "NODE_0000030",
                 "node_attrs": {
-                  "div": 0.015403698672263282,
+                  "div": 0.01539741666962775,
                   "num_date": {
-                    "value": 2009.987083484963
+                    "value": 2010.0150277129571
                   }
                 }
               },
@@ -409,9 +409,9 @@
                     },
                     "name": "REFERENCE_A/VICTORIA/208/2009_EPI_ISL_77080_HA",
                     "node_attrs": {
-                      "div": 0.009127416067856959,
+                      "div": 0.009123697036878504,
                       "num_date": {
-                        "value": 2009.4188911707392
+                        "value": 2009.4188911707492
                       }
                     }
                   },
@@ -450,9 +450,9 @@
                         },
                         "name": "REFERENCE_A/Stockholm/18/2011_EPI_ISL_90426_HA",
                         "node_attrs": {
-                          "div": 0.013685182134734427,
+                          "div": 0.013679611940341339,
                           "num_date": {
-                            "value": 2011.142368241239
+                            "value": 2011.142368241249
                           }
                         }
                       },
@@ -505,9 +505,9 @@
                             },
                             "name": "REFERENCE_A/Maryland/02/2012_EPI_ISL_107041_HA",
                             "node_attrs": {
-                              "div": 0.016533639918749825,
+                              "div": 0.01652682042867014,
                               "num_date": {
-                                "value": 2012.0492813144765
+                                "value": 2012.0492813144865
                               }
                             }
                           },
@@ -542,9 +542,9 @@
                                 },
                                 "name": "REFERENCE_A/Victoria/361/2011_EPI_ISL_134450_HA",
                                 "node_attrs": {
-                                  "div": 0.015389568100528977,
+                                  "div": 0.015383239647782869,
                                   "num_date": {
-                                    "value": 2011.8131416840863
+                                    "value": 2011.8131416840963
                                   }
                                 }
                               },
@@ -571,33 +571,63 @@
                                 "children": [
                                   {
                                     "branch_attrs": {
+                                      "labels": {
+                                        "aa": "HA: S59N, L146M, E339G"
+                                      },
+                                      "mutations": {
+                                        "HA": [
+                                          "S59N",
+                                          "L146M",
+                                          "E339G"
+                                        ],
+                                        "nuc": [
+                                          "G196A",
+                                          "C456A",
+                                          "T665C",
+                                          "A1036G"
+                                        ]
+                                      }
+                                    },
+                                    "name": "REFERENCE_A/Texas/50/2012_EPI_ISL_129858_HA",
+                                    "node_attrs": {
+                                      "div": 0.018799771010701995,
+                                      "num_date": {
+                                        "value": 2012.2902121837542
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
                                       "mutations": {}
                                     },
                                     "children": [
                                       {
                                         "branch_attrs": {
                                           "labels": {
-                                            "aa": "HA: S59N, L146M, E339G"
+                                            "aa": "HA: W15*, *175Q, W364*, I373T, S417F"
                                           },
                                           "mutations": {
                                             "HA": [
-                                              "S59N",
-                                              "L146M",
-                                              "E339G"
+                                              "W15*",
+                                              "*175Q",
+                                              "W364*",
+                                              "I373T",
+                                              "S417F"
                                             ],
                                             "nuc": [
-                                              "G196A",
-                                              "C456A",
-                                              "T665C",
-                                              "A1036G"
+                                              "G64A",
+                                              "T543C",
+                                              "G1112A",
+                                              "T1138C",
+                                              "C1270T"
                                             ]
                                           }
                                         },
-                                        "name": "REFERENCE_A/Texas/50/2012_EPI_ISL_129858_HA",
+                                        "name": "REFERENCE_A/Hawaii/22/2012_EPI_ISL_129545_HA",
                                         "node_attrs": {
-                                          "div": 0.018807532076135447,
+                                          "div": 0.019370216150567627,
                                           "num_date": {
-                                            "value": 2012.2902121837442
+                                            "value": 2012.5229295006604
                                           }
                                         }
                                       },
@@ -608,31 +638,17 @@
                                         "children": [
                                           {
                                             "branch_attrs": {
-                                              "labels": {
-                                                "aa": "HA: W15*, *175Q, W364*, I373T, S417F"
-                                              },
                                               "mutations": {
-                                                "HA": [
-                                                  "W15*",
-                                                  "*175Q",
-                                                  "W364*",
-                                                  "I373T",
-                                                  "S417F"
-                                                ],
                                                 "nuc": [
-                                                  "G64A",
-                                                  "T543C",
-                                                  "G1112A",
-                                                  "T1138C",
-                                                  "C1270T"
+                                                  "G71A"
                                                 ]
                                               }
                                             },
-                                            "name": "REFERENCE_A/Hawaii/22/2012_EPI_ISL_129545_HA",
+                                            "name": "REFERENCE_A/Finland/190/2011_EPI_ISL_105761_HA",
                                             "node_attrs": {
-                                              "div": 0.019378211271627765,
+                                              "div": 0.01709168032848547,
                                               "num_date": {
-                                                "value": 2012.5229295006504
+                                                "value": 2011.9007529092846
                                               }
                                             }
                                           },
@@ -643,92 +659,62 @@
                                             "children": [
                                               {
                                                 "branch_attrs": {
-                                                  "mutations": {
-                                                    "nuc": [
-                                                      "G71A"
-                                                    ]
-                                                  }
+                                                  "mutations": {}
                                                 },
-                                                "name": "REFERENCE_A/Finland/190/2011_EPI_ISL_105761_HA",
+                                                "name": "REFERENCE_A/Norway/1789/2011_EPI_ISL_95096_HA",
                                                 "node_attrs": {
-                                                  "div": 0.0170987319680749,
+                                                  "div": 0.01652315121669807,
                                                   "num_date": {
-                                                    "value": 2011.9007529092746
+                                                    "value": 2011.5859000690828
                                                   }
                                                 }
                                               },
                                               {
                                                 "branch_attrs": {
-                                                  "mutations": {}
-                                                },
-                                                "children": [
-                                                  {
-                                                    "branch_attrs": {
-                                                      "mutations": {}
-                                                    },
-                                                    "name": "REFERENCE_A/Norway/1789/2011_EPI_ISL_95096_HA",
-                                                    "node_attrs": {
-                                                      "div": 0.01652996328895745,
-                                                      "num_date": {
-                                                        "value": 2011.5859000690627
-                                                      }
-                                                    }
+                                                  "labels": {
+                                                    "aa": "HA: R203Q"
                                                   },
-                                                  {
-                                                    "branch_attrs": {
-                                                      "labels": {
-                                                        "aa": "HA: R203Q"
-                                                      },
-                                                      "mutations": {
-                                                        "HA": [
-                                                          "R203Q"
-                                                        ],
-                                                        "nuc": [
-                                                          "G628A"
-                                                        ]
-                                                      }
-                                                    },
-                                                    "name": "REFERENCE_A/Glasgow/407664/2012_EPI_ISL_121927_HA",
-                                                    "node_attrs": {
-                                                      "div": 0.017098731968074914,
-                                                      "num_date": {
-                                                        "value": 2012.2573579742984
-                                                      }
-                                                    }
+                                                  "mutations": {
+                                                    "HA": [
+                                                      "R203Q"
+                                                    ],
+                                                    "nuc": [
+                                                      "G628A"
+                                                    ]
                                                   }
-                                                ],
-                                                "name": "NODE_0000017",
+                                                },
+                                                "name": "REFERENCE_A/Glasgow/407664/2012_EPI_ISL_121927_HA",
                                                 "node_attrs": {
-                                                  "div": 0.016529963288957436,
+                                                  "div": 0.017091680328485483,
                                                   "num_date": {
-                                                    "value": 2011.5859000687544
+                                                    "value": 2012.2573579743084
                                                   }
                                                 }
                                               }
                                             ],
-                                            "name": "NODE_0000016",
+                                            "name": "NODE_0000014",
                                             "node_attrs": {
-                                              "div": 0.016529963288957422,
+                                              "div": 0.016523151216698055,
                                               "num_date": {
-                                                "value": 2011.5834347149766
+                                                "value": 2011.5859000687644
                                               }
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000015",
+                                        "name": "NODE_0000012",
                                         "node_attrs": {
-                                          "div": 0.01652996328895741,
+                                          "div": 0.01652315121669804,
                                           "num_date": {
-                                            "value": 2011.5809689774092
+                                            "value": 2011.58335461155
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000018",
+                                    "name": "NODE_0000019",
                                     "node_attrs": {
-                                      "div": 0.016529963288957394,
+                                      "div": 0.016523151216698027,
                                       "num_date": {
-                                        "value": 2011.5785010546224
+                                        "value": 2011.5808087481507
                                       }
                                     }
                                   },
@@ -789,9 +775,9 @@
                                             },
                                             "name": "REFERENCE_A/South_Africa/4655/2013_EPI_ISL_145494_HA",
                                             "node_attrs": {
-                                              "div": 0.022220641476998277,
+                                              "div": 0.02221136501423384,
                                               "num_date": {
-                                                "value": 2013.4818617388432
+                                                "value": 2013.4818617388532
                                               }
                                             }
                                           },
@@ -820,9 +806,9 @@
                                                 },
                                                 "name": "REFERENCE_A/Trieste/01/2013_EPI_ISL_136403_HA",
                                                 "node_attrs": {
-                                                  "div": 0.02108177646380927,
+                                                  "div": 0.021072996628068157,
                                                   "num_date": {
-                                                    "value": 2013.0109514034566
+                                                    "value": 2013.0109514034666
                                                   }
                                                 }
                                               },
@@ -837,9 +823,9 @@
                                                     },
                                                     "name": "REFERENCE_A/Netherlands/555/2012_EPI_ISL_136392_HA",
                                                     "node_attrs": {
-                                                      "div": 0.02051337562999766,
+                                                      "div": 0.02050484358646636,
                                                       "num_date": {
-                                                        "value": 2012.963723477687
+                                                        "value": 2012.9637234773886
                                                       }
                                                     }
                                                   },
@@ -890,9 +876,9 @@
                                                         },
                                                         "name": "REFERENCE_A/Netherlands/525/2014_EPI_ISL_175051_HA",
                                                         "node_attrs": {
-                                                          "div": 0.026785160776533378,
+                                                          "div": 0.026773949491117468,
                                                           "num_date": {
-                                                            "value": 2014.9609856265915
+                                                            "value": 2014.9609856266015
                                                           }
                                                         }
                                                       },
@@ -914,36 +900,36 @@
                                                         },
                                                         "name": "REFERENCE_A/Stockholm/28/2014_EPI_ISL_169258_HA",
                                                         "node_attrs": {
-                                                          "div": 0.026216801828762435,
+                                                          "div": 0.026205834534531507,
                                                           "num_date": {
-                                                            "value": 2014.9199178647846
+                                                            "value": 2014.9199178647946
                                                           }
                                                         }
                                                       }
                                                     ],
-                                                    "name": "NODE_0000012",
+                                                    "name": "NODE_0000015",
                                                     "node_attrs": {
-                                                      "div": 0.025078581603114547,
+                                                      "div": 0.02506810156315039,
                                                       "num_date": {
-                                                        "value": 2014.5364366113843
+                                                        "value": 2014.5306157029593
                                                       }
                                                     }
                                                   }
                                                 ],
-                                                "name": "NODE_0000026",
+                                                "name": "NODE_0000018",
                                                 "node_attrs": {
-                                                  "div": 0.020513375629997645,
+                                                  "div": 0.020504843586466346,
                                                   "num_date": {
-                                                    "value": 2012.9637234773786
+                                                    "value": 2012.9611780201742
                                                   }
                                                 }
                                               }
                                             ],
-                                            "name": "NODE_0000010",
+                                            "name": "NODE_0000013",
                                             "node_attrs": {
-                                              "div": 0.02051337562999763,
+                                              "div": 0.020504843586466332,
                                               "num_date": {
-                                                "value": 2012.9510421239795
+                                                "value": 2012.9611780201742
                                               }
                                             }
                                           },
@@ -985,9 +971,9 @@
                                                 },
                                                 "name": "REFERENCE_A/Stockholm/6/2014_EPI_ISL_156996_HA",
                                                 "node_attrs": {
-                                                  "div": 0.023932798306335275,
+                                                  "div": 0.023922788555124905,
                                                   "num_date": {
-                                                    "value": 2014.101300479432
+                                                    "value": 2014.101300479442
                                                   }
                                                 }
                                               },
@@ -1012,9 +998,9 @@
                                                     },
                                                     "name": "REFERENCE_A/Switzerland/9715293/2013_EPI_ISL_166310_HA",
                                                     "node_attrs": {
-                                                      "div": 0.023932704356892303,
+                                                      "div": 0.023922692062447015,
                                                       "num_date": {
-                                                        "value": 2014.0817482637128
+                                                        "value": 2014.086879862234
                                                       }
                                                     }
                                                   },
@@ -1036,9 +1022,9 @@
                                                     },
                                                     "name": "REFERENCE_A/Palau/6759/2014_EPI_ISL_164404_HA",
                                                     "node_attrs": {
-                                                      "div": 0.025069943280841847,
+                                                      "div": 0.025059433067084105,
                                                       "num_date": {
-                                                        "value": 2014.2327173172143
+                                                        "value": 2014.2327173172243
                                                       }
                                                     }
                                                   },
@@ -1051,19 +1037,19 @@
                                                         "branch_attrs": {
                                                           "mutations": {}
                                                         },
-                                                        "name": "REFERENCE_A/Norway/466/2014_EPI_ISL_166796_HA",
-                                                        "node_attrs": {
-                                                          "div": 0.023932704356892317,
-                                                          "num_date": {
-                                                            "value": 2014.0930869273789
-                                                          }
-                                                        }
-                                                      },
-                                                      {
-                                                        "branch_attrs": {
-                                                          "mutations": {}
-                                                        },
                                                         "children": [
+                                                          {
+                                                            "branch_attrs": {
+                                                              "mutations": {}
+                                                            },
+                                                            "name": "REFERENCE_A/Norway/466/2014_EPI_ISL_166796_HA",
+                                                            "node_attrs": {
+                                                              "div": 0.023922692062447043,
+                                                              "num_date": {
+                                                                "value": 2014.0930869273989
+                                                              }
+                                                            }
+                                                          },
                                                           {
                                                             "branch_attrs": {
                                                               "labels": {
@@ -1085,55 +1071,103 @@
                                                             },
                                                             "name": "REFERENCE_A/Bucuresti/193605/2016_EPI_ISL_223632_HA",
                                                             "node_attrs": {
-                                                              "div": 0.02620861458562134,
+                                                              "div": 0.02619763306311437,
                                                               "num_date": {
-                                                                "value": 2016.186173853833
+                                                                "value": 2016.186173853843
+                                                              }
+                                                            }
+                                                          }
+                                                        ],
+                                                        "name": "NODE_0000034",
+                                                        "node_attrs": {
+                                                          "div": 0.02392269206244703,
+                                                          "num_date": {
+                                                            "value": 2014.0930869270805
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {
+                                                          "labels": {
+                                                            "aa": "HA: T11A, N20K, I63T, L105S, A109T, P124H, G127D, I162K, G199V, S211P, R257Q, P307Q, P322H, S385L, N416S, D497G"
+                                                          },
+                                                          "mutations": {
+                                                            "HA": [
+                                                              "T11A",
+                                                              "N20K",
+                                                              "I63T",
+                                                              "L105S",
+                                                              "A109T",
+                                                              "P124H",
+                                                              "G127D",
+                                                              "I162K",
+                                                              "G199V",
+                                                              "S211P",
+                                                              "R257Q",
+                                                              "P307Q",
+                                                              "P322H",
+                                                              "S385L",
+                                                              "N416S",
+                                                              "D497G"
+                                                            ],
+                                                            "nuc": [
+                                                              "A51G",
+                                                              "C80A",
+                                                              "T208C",
+                                                              "T334C",
+                                                              "G345A",
+                                                              "C391A",
+                                                              "G400A",
+                                                              "T505A",
+                                                              "G616T",
+                                                              "T651C",
+                                                              "G790A",
+                                                              "C940A",
+                                                              "C985A",
+                                                              "C1174T",
+                                                              "A1267G",
+                                                              "A1510G",
+                                                              "G1538A",
+                                                              "T1664C"
+                                                            ]
+                                                          }
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "branch_attrs": {
+                                                              "labels": {
+                                                                "aa": "HA: E339G"
+                                                              },
+                                                              "mutations": {
+                                                                "HA": [
+                                                                  "E339G"
+                                                                ],
+                                                                "nuc": [
+                                                                  "A1036G"
+                                                                ]
+                                                              }
+                                                            },
+                                                            "name": "REFERENCE_A/England/538/2018_EPI_ISL_312041_HA",
+                                                            "node_attrs": {
+                                                              "div": 0.03479384450351496,
+                                                              "num_date": {
+                                                                "value": 2018.1560574951845
                                                               }
                                                             }
                                                           },
                                                           {
                                                             "branch_attrs": {
                                                               "labels": {
-                                                                "aa": "HA: T11A, N20K, I63T, L105S, A109T, P124H, G127D, I162K, G199V, S211P, R257Q, P307Q, P322H, S385L, N416S, D497G"
+                                                                "aa": "HA: N294S, *496W"
                                                               },
                                                               "mutations": {
                                                                 "HA": [
-                                                                  "T11A",
-                                                                  "N20K",
-                                                                  "I63T",
-                                                                  "L105S",
-                                                                  "A109T",
-                                                                  "P124H",
-                                                                  "G127D",
-                                                                  "I162K",
-                                                                  "G199V",
-                                                                  "S211P",
-                                                                  "R257Q",
-                                                                  "P307Q",
-                                                                  "P322H",
-                                                                  "S385L",
-                                                                  "N416S",
-                                                                  "D497G"
+                                                                  "N294S",
+                                                                  "*496W"
                                                                 ],
                                                                 "nuc": [
-                                                                  "A51G",
-                                                                  "C80A",
-                                                                  "T208C",
-                                                                  "T334C",
-                                                                  "G345A",
-                                                                  "C391A",
-                                                                  "G400A",
-                                                                  "T505A",
-                                                                  "G616T",
-                                                                  "T651C",
-                                                                  "G790A",
-                                                                  "C940A",
-                                                                  "C985A",
-                                                                  "C1174T",
-                                                                  "A1267G",
-                                                                  "A1510G",
-                                                                  "G1538A",
-                                                                  "T1664C"
+                                                                  "A901G",
+                                                                  "A1507G"
                                                                 ]
                                                               }
                                                             },
@@ -1141,40 +1175,166 @@
                                                               {
                                                                 "branch_attrs": {
                                                                   "labels": {
-                                                                    "aa": "HA: E339G"
+                                                                    "aa": "HA: E108G, E500G, L548F"
                                                                   },
                                                                   "mutations": {
                                                                     "HA": [
-                                                                      "E339G"
+                                                                      "E108G",
+                                                                      "E500G",
+                                                                      "L548F"
                                                                     ],
                                                                     "nuc": [
-                                                                      "A1036G"
+                                                                      "A343G",
+                                                                      "A1519G",
+                                                                      "A1561G",
+                                                                      "C1662T"
                                                                     ]
                                                                   }
                                                                 },
-                                                                "name": "REFERENCE_A/England/538/2018_EPI_ISL_312041_HA",
+                                                                "children": [
+                                                                  {
+                                                                    "branch_attrs": {
+                                                                      "labels": {
+                                                                        "aa": "HA: V14A, G34D, K53R, S300L, L301P, E363D, G372D, Y508C"
+                                                                      },
+                                                                      "mutations": {
+                                                                        "HA": [
+                                                                          "V14A",
+                                                                          "G34D",
+                                                                          "K53R",
+                                                                          "S300L",
+                                                                          "L301P",
+                                                                          "E363D",
+                                                                          "G372D",
+                                                                          "Y508C"
+                                                                        ],
+                                                                        "nuc": [
+                                                                          "T61C",
+                                                                          "G121A",
+                                                                          "A178G",
+                                                                          "C919T",
+                                                                          "T922C",
+                                                                          "A1109T",
+                                                                          "G1135A",
+                                                                          "A1543G",
+                                                                          "T1559C"
+                                                                        ]
+                                                                      }
+                                                                    },
+                                                                    "name": "A/Mexico/INCMNSZ/BMQ285/Nov2019/H3N2_HA",
+                                                                    "node_attrs": {
+                                                                      "div": 0.04276222273189637,
+                                                                      "num_date": {
+                                                                        "value": 2019.908966461646
+                                                                      }
+                                                                    }
+                                                                  },
+                                                                  {
+                                                                    "branch_attrs": {
+                                                                      "labels": {
+                                                                        "aa": "HA: S403L, K405R, G422E, K486R"
+                                                                      },
+                                                                      "mutations": {
+                                                                        "HA": [
+                                                                          "S403L",
+                                                                          "K405R",
+                                                                          "G422E",
+                                                                          "K486R"
+                                                                        ],
+                                                                        "nuc": [
+                                                                          "G221A",
+                                                                          "C1228T",
+                                                                          "A1234G",
+                                                                          "G1285A",
+                                                                          "A1477G"
+                                                                        ]
+                                                                      }
+                                                                    },
+                                                                    "children": [
+                                                                      {
+                                                                        "branch_attrs": {
+                                                                          "labels": {
+                                                                            "aa": "HA: W364*, M396T, T426I"
+                                                                          },
+                                                                          "mutations": {
+                                                                            "HA": [
+                                                                              "W364*",
+                                                                              "M396T",
+                                                                              "T426I"
+                                                                            ],
+                                                                            "nuc": [
+                                                                              "G1112A",
+                                                                              "T1207C",
+                                                                              "C1297T"
+                                                                            ]
+                                                                          }
+                                                                        },
+                                                                        "name": "A/Mexico/INCMNSZ/BMQ814/Dec2019/H3N2_HA",
+                                                                        "node_attrs": {
+                                                                          "div": 0.04218241338680449,
+                                                                          "num_date": {
+                                                                            "value": 2019.99110198526
+                                                                          }
+                                                                        }
+                                                                      },
+                                                                      {
+                                                                        "branch_attrs": {
+                                                                          "labels": {
+                                                                            "aa": "HA: R30S, R233Q, S300L, L301P, E363D, G372D, S416N, G528D"
+                                                                          },
+                                                                          "mutations": {
+                                                                            "HA": [
+                                                                              "R30S",
+                                                                              "R233Q",
+                                                                              "S300L",
+                                                                              "L301P",
+                                                                              "E363D",
+                                                                              "G372D",
+                                                                              "S416N",
+                                                                              "G528D"
+                                                                            ],
+                                                                            "nuc": [
+                                                                              "C108A",
+                                                                              "G718A",
+                                                                              "C919T",
+                                                                              "T922C",
+                                                                              "T1019C",
+                                                                              "A1109T",
+                                                                              "G1135A",
+                                                                              "G1267A",
+                                                                              "G1603A"
+                                                                            ]
+                                                                          }
+                                                                        },
+                                                                        "name": "A/Mexico/INCMNSZ/BMQ317/Dec2019/H3N2_HA",
+                                                                        "node_attrs": {
+                                                                          "div": 0.04560777599256903,
+                                                                          "num_date": {
+                                                                            "value": 2019.9199178647946
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    ],
+                                                                    "name": "NODE_0000000",
+                                                                    "node_attrs": {
+                                                                      "div": 0.0404779825862324,
+                                                                      "num_date": {
+                                                                        "value": 2019.1599475153098
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                ],
+                                                                "name": "NODE_0000001",
                                                                 "node_attrs": {
-                                                                  "div": 0.03480823718014411,
+                                                                  "div": 0.037635553955065466,
                                                                   "num_date": {
-                                                                    "value": 2018.1560574951745
+                                                                    "value": 2018.5279096117445
                                                                   }
                                                                 }
                                                               },
                                                               {
                                                                 "branch_attrs": {
-                                                                  "labels": {
-                                                                    "aa": "HA: N294S, *496W"
-                                                                  },
-                                                                  "mutations": {
-                                                                    "HA": [
-                                                                      "N294S",
-                                                                      "*496W"
-                                                                    ],
-                                                                    "nuc": [
-                                                                      "A901G",
-                                                                      "A1507G"
-                                                                    ]
-                                                                  }
+                                                                  "mutations": {}
                                                                 },
                                                                 "children": [
                                                                   {
@@ -1183,36 +1343,23 @@
                                                                     },
                                                                     "name": "REFERENCE_A/Kansas/14/2017_EPI_ISL_292575_HA",
                                                                     "node_attrs": {
-                                                                      "div": 0.03537676940688594,
+                                                                      "div": 0.035362140801836944,
                                                                       "num_date": {
-                                                                        "value": 2017.9527720745384
+                                                                        "value": 2017.9527720745584
                                                                       }
                                                                     }
                                                                   },
                                                                   {
                                                                     "branch_attrs": {
                                                                       "labels": {
-                                                                        "aa": "HA: E108G, S300L, L301P, E363D, G372D, E500G, L548F"
+                                                                        "aa": "HA: W364*"
                                                                       },
                                                                       "mutations": {
                                                                         "HA": [
-                                                                          "E108G",
-                                                                          "S300L",
-                                                                          "L301P",
-                                                                          "E363D",
-                                                                          "G372D",
-                                                                          "E500G",
-                                                                          "L548F"
+                                                                          "W364*"
                                                                         ],
                                                                         "nuc": [
-                                                                          "A343G",
-                                                                          "C919T",
-                                                                          "T922C",
-                                                                          "A1109T",
-                                                                          "G1135A",
-                                                                          "A1519G",
-                                                                          "A1561G",
-                                                                          "C1662T"
+                                                                          "G1112A"
                                                                         ]
                                                                       }
                                                                     },
@@ -1220,139 +1367,126 @@
                                                                       {
                                                                         "branch_attrs": {
                                                                           "labels": {
-                                                                            "aa": "HA: V14A, G34D, K53R, Y508C"
+                                                                            "aa": "HA: R100G, E147G, G267E, R559K"
                                                                           },
                                                                           "mutations": {
                                                                             "HA": [
-                                                                              "V14A",
-                                                                              "G34D",
-                                                                              "K53R",
-                                                                              "Y508C"
+                                                                              "R100G",
+                                                                              "E147G",
+                                                                              "G267E",
+                                                                              "R559K"
                                                                             ],
                                                                             "nuc": [
-                                                                              "T61C",
-                                                                              "G121A",
-                                                                              "A178G",
-                                                                              "A1543G",
-                                                                              "T1559C"
+                                                                              "C239T",
+                                                                              "A318G",
+                                                                              "A434G",
+                                                                              "A460G",
+                                                                              "G820A",
+                                                                              "G1696A"
                                                                             ]
                                                                           }
                                                                         },
-                                                                        "name": "A/Mexico/INCMNSZ/BMQ285/Nov2019/H3N2_HA",
+                                                                        "name": "A/Mexico/INCMNSZ/BMQ530/Dec2019/H3N2_HA",
                                                                         "node_attrs": {
-                                                                          "div": 0.0427794983121556,
+                                                                          "div": 0.03934384866650453,
                                                                           "num_date": {
-                                                                            "value": 2019.908966461636
+                                                                            "value": 2019.9555099250272
                                                                           }
                                                                         }
                                                                       },
                                                                       {
                                                                         "branch_attrs": {
                                                                           "labels": {
-                                                                            "aa": "HA: R30S, R233Q, S403L, K405R, S416N, G422E, K486R, G528D"
+                                                                            "aa": "HA: A330T, K358T"
                                                                           },
                                                                           "mutations": {
                                                                             "HA": [
-                                                                              "R30S",
-                                                                              "R233Q",
-                                                                              "S403L",
-                                                                              "K405R",
-                                                                              "S416N",
-                                                                              "G422E",
-                                                                              "K486R",
-                                                                              "G528D"
+                                                                              "A330T",
+                                                                              "K358T"
                                                                             ],
                                                                             "nuc": [
-                                                                              "C108A",
-                                                                              "G221A",
-                                                                              "G718A",
-                                                                              "T1019C",
-                                                                              "C1228T",
-                                                                              "A1234G",
-                                                                              "G1267A",
-                                                                              "G1285A",
-                                                                              "A1477G",
-                                                                              "G1603A"
+                                                                              "G1008A",
+                                                                              "A1093C"
                                                                             ]
                                                                           }
                                                                         },
-                                                                        "name": "A/Mexico/INCMNSZ/BMQ317/Dec2019/H3N2_HA",
+                                                                        "name": "A/Mexico/INCMNSZ/BMQ484/Dec2019/H3N2_HA",
                                                                         "node_attrs": {
-                                                                          "div": 0.045637011387977794,
+                                                                          "div": 0.037066474105888175,
                                                                           "num_date": {
-                                                                            "value": 2019.9199178647846
+                                                                            "value": 2019.9445585218787
                                                                           }
                                                                         }
                                                                       }
                                                                     ],
-                                                                    "name": "NODE_0000000",
+                                                                    "name": "NODE_0000003",
                                                                     "node_attrs": {
-                                                                      "div": 0.039935787460919525,
+                                                                      "div": 0.0359300109906184,
                                                                       "num_date": {
-                                                                        "value": 2018.9559878020386
+                                                                        "value": 2019.1467103038335
                                                                       }
                                                                     }
                                                                   }
                                                                 ],
-                                                                "name": "NODE_0000001",
+                                                                "name": "NODE_0000041",
                                                                 "node_attrs": {
-                                                                  "div": 0.03537676940688592,
+                                                                  "div": 0.03536214080183693,
                                                                   "num_date": {
-                                                                    "value": 2017.95277207423
+                                                                    "value": 2017.95277207424
                                                                   }
                                                                 }
                                                               }
                                                             ],
                                                             "name": "NODE_0000002",
                                                             "node_attrs": {
-                                                              "div": 0.03424003595339174,
+                                                              "div": 0.03536214080183692,
                                                               "num_date": {
-                                                                "value": 2017.8220393004087
+                                                                "value": 2017.9502266170257
                                                               }
                                                             }
                                                           }
                                                         ],
-                                                        "name": "NODE_0000033",
+                                                        "name": "NODE_0000005",
                                                         "node_attrs": {
-                                                          "div": 0.023932704356892317,
+                                                          "div": 0.03422587828617615,
                                                           "num_date": {
-                                                            "value": 2014.2428156813414
+                                                            "value": 2017.7573196669832
                                                           }
                                                         }
                                                       }
                                                     ],
-                                                    "name": "NODE_0000031",
+                                                    "name": "NODE_0000029",
                                                     "node_attrs": {
-                                                      "div": 0.023932704356892303,
+                                                      "div": 0.023922692062447015,
                                                       "num_date": {
-                                                        "value": 2014.0930869270705
+                                                        "value": 2014.0905414698661
                                                       }
                                                     }
                                                   }
                                                 ],
-                                                "name": "NODE_0000003",
+                                                "name": "NODE_0000006",
                                                 "node_attrs": {
-                                                  "div": 0.02393270435689229,
+                                                  "div": 0.023922692062447,
                                                   "num_date": {
-                                                    "value": 2014.0817482637128
+                                                    "value": 2014.086879862234
                                                   }
                                                 }
                                               }
                                             ],
-                                            "name": "NODE_0000007",
+                                            "name": "NODE_0000010",
                                             "node_attrs": {
-                                              "div": 0.023364433102668683,
+                                              "div": 0.023354666069459462,
                                               "num_date": {
-                                                "value": 2013.9298988552616
+                                                "value": 2013.92384107294
                                               }
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000008",
+                                        "name": "NODE_0000011",
                                         "node_attrs": {
-                                          "div": 0.019944974732457446,
+                                          "div": 0.01993669054174652,
                                           "num_date": {
-                                            "value": 2012.6013381059327
+                                            "value": 2012.778770967555
                                           }
                                         }
                                       },
@@ -1397,9 +1531,9 @@
                                             },
                                             "name": "REFERENCE_A/Hong_Kong/146/2013_EPI_ISL_136375_HA",
                                             "node_attrs": {
-                                              "div": 0.0227926397153113,
+                                              "div": 0.02278316371821084,
                                               "num_date": {
-                                                "value": 2013.0301163589666
+                                                "value": 2013.0301163589766
                                               }
                                             }
                                           },
@@ -1440,9 +1574,9 @@
                                                     },
                                                     "name": "REFERENCE_A/Hong_Kong/4801/2014_EPI_ISL_198222_HA",
                                                     "node_attrs": {
-                                                      "div": 0.024509770877658474,
+                                                      "div": 0.024499570817143226,
                                                       "num_date": {
-                                                        "value": 2014.1560574951745
+                                                        "value": 2014.1560574951845
                                                       }
                                                     }
                                                   },
@@ -1462,18 +1596,18 @@
                                                     },
                                                     "name": "REFERENCE_A/Hong_Kong/5738/2014_EPI_ISL_165629_HA",
                                                     "node_attrs": {
-                                                      "div": 0.025078428740052998,
+                                                      "div": 0.025067983748842844,
                                                       "num_date": {
-                                                        "value": 2014.3285420947639
+                                                        "value": 2014.3285420947739
                                                       }
                                                     }
                                                   }
                                                 ],
-                                                "name": "NODE_0000041",
+                                                "name": "NODE_0000054",
                                                 "node_attrs": {
-                                                  "div": 0.02450977087765846,
+                                                  "div": 0.024499570817143212,
                                                   "num_date": {
-                                                    "value": 2014.1535921413968
+                                                    "value": 2014.1535120379701
                                                   }
                                                 }
                                               },
@@ -1500,9 +1634,9 @@
                                                     },
                                                     "name": "REFERENCE_A/Cote_D_Ivoire/544/2016_EPI_ISL_226075_HA",
                                                     "node_attrs": {
-                                                      "div": 0.025647620949073587,
+                                                      "div": 0.02563693637993448,
                                                       "num_date": {
-                                                        "value": 2014.427435068239
+                                                        "value": 2014.4497489720409
                                                       }
                                                     }
                                                   },
@@ -1540,9 +1674,9 @@
                                                     },
                                                     "name": "REFERENCE_A/South_Africa/R2665/2015_EPI_ISL_193193_HA",
                                                     "node_attrs": {
-                                                      "div": 0.03135580774325214,
+                                                      "div": 0.031342767029171076,
                                                       "num_date": {
-                                                        "value": 2015.3969883644422
+                                                        "value": 2015.3969883644522
                                                       }
                                                     }
                                                   },
@@ -1623,9 +1757,9 @@
                                                                 },
                                                                 "name": "REFERENCE_A/Hong_Kong/675/2018_EPI_ISL_330511_HA",
                                                                 "node_attrs": {
-                                                                  "div": 0.03535239641580162,
+                                                                  "div": 0.03533761588385276,
                                                                   "num_date": {
-                                                                    "value": 2017.5248002315566
+                                                                    "value": 2017.534287652986
                                                                   }
                                                                 }
                                                               },
@@ -1645,18 +1779,18 @@
                                                                 },
                                                                 "name": "REFERENCE_A/Norway/2516/2018_EPI_ISL_330510_HA",
                                                                 "node_attrs": {
-                                                                  "div": 0.03592144707074653,
+                                                                  "div": 0.03590642474838826,
                                                                   "num_date": {
-                                                                    "value": 2017.6682157689866
+                                                                    "value": 2017.624726234739
                                                                   }
                                                                 }
                                                               }
                                                             ],
-                                                            "name": "NODE_0000036",
+                                                            "name": "NODE_0000039",
                                                             "node_attrs": {
-                                                              "div": 0.0353523964158016,
+                                                              "div": 0.035337615883852744,
                                                               "num_date": {
-                                                                "value": 2017.5248002315566
+                                                                "value": 2017.534287652986
                                                               }
                                                             }
                                                           },
@@ -1696,9 +1830,9 @@
                                                                 },
                                                                 "name": "REFERENCE_A/Wisconsin/04/2018_EPI_ISL_296103_HA",
                                                                 "node_attrs": {
-                                                                  "div": 0.03648911528684879,
+                                                                  "div": 0.036473877761022025,
                                                                   "num_date": {
-                                                                    "value": 2018.0054757018825
+                                                                    "value": 2018.0054757018925
                                                                   }
                                                                 }
                                                               },
@@ -1730,9 +1864,9 @@
                                                                 },
                                                                 "name": "REFERENCE_A/Switzerland/8060/2017_EPI_ISL_319720_HA",
                                                                 "node_attrs": {
-                                                                  "div": 0.0387748971724833,
+                                                                  "div": 0.038758743340528166,
                                                                   "num_date": {
-                                                                    "value": 2018.2948928649705
+                                                                    "value": 2018.2120055131822
                                                                   }
                                                                 }
                                                               },
@@ -1757,27 +1891,27 @@
                                                                 },
                                                                 "name": "REFERENCE_A/Bretagne/1565/2017_EPI_ISL_291159_HA",
                                                                 "node_attrs": {
-                                                                  "div": 0.03705921649760785,
+                                                                  "div": 0.037043724002030536,
                                                                   "num_date": {
-                                                                    "value": 2017.889801506126
+                                                                    "value": 2017.889801506136
                                                                   }
                                                                 }
                                                               }
                                                             ],
-                                                            "name": "NODE_0000037",
+                                                            "name": "NODE_0000040",
                                                             "node_attrs": {
-                                                              "div": 0.034780572151075245,
+                                                              "div": 0.03476604297161348,
                                                               "num_date": {
-                                                                "value": 2017.5035035288593
+                                                                "value": 2017.3952349724414
                                                               }
                                                             }
                                                           }
                                                         ],
-                                                        "name": "NODE_0000035",
+                                                        "name": "NODE_0000038",
                                                         "node_attrs": {
-                                                          "div": 0.033641887199574005,
+                                                          "div": 0.033627834351948015,
                                                           "num_date": {
-                                                            "value": 2017.0830458188475
+                                                            "value": 2017.0783739433334
                                                           }
                                                         }
                                                       },
@@ -1823,9 +1957,9 @@
                                                             },
                                                             "name": "REFERENCE_A/Slovenia/3188/2015_EPI_ISL_208201_HA",
                                                             "node_attrs": {
-                                                              "div": 0.03248191972900094,
+                                                              "div": 0.03246831539302264,
                                                               "num_date": {
-                                                                "value": 2015.9856262836756
+                                                                "value": 2015.9856262836856
                                                               }
                                                             }
                                                           },
@@ -1863,9 +1997,9 @@
                                                                 },
                                                                 "name": "REFERENCE_A/Oman/5466/2016_EPI_ISL_233478_HA",
                                                                 "node_attrs": {
-                                                                  "div": 0.03305001441698073,
+                                                                  "div": 0.033036169656174424,
                                                                   "num_date": {
-                                                                    "value": 2016.514715948289
+                                                                    "value": 2016.514715948299
                                                                   }
                                                                 }
                                                               },
@@ -1903,9 +2037,9 @@
                                                                     },
                                                                     "name": "REFERENCE_A/Singapore/INFIMH-16-0019/2016_EPI_ISL_296168_HA",
                                                                     "node_attrs": {
-                                                                      "div": 0.03475913427220556,
+                                                                      "div": 0.03474458314878188,
                                                                       "num_date": {
-                                                                        "value": 2016.454483230972
+                                                                        "value": 2016.454483230982
                                                                       }
                                                                     }
                                                                   },
@@ -1954,9 +2088,9 @@
                                                                         },
                                                                         "name": "REFERENCE_A/Greece/4/2017_EPI_ISL_275853_HA",
                                                                         "node_attrs": {
-                                                                          "div": 0.03818074505127288,
+                                                                          "div": 0.038164780669803756,
                                                                           "num_date": {
-                                                                            "value": 2017.0054757018825
+                                                                            "value": 2017.0054757018925
                                                                           }
                                                                         }
                                                                       },
@@ -1977,27 +2111,27 @@
                                                                         },
                                                                         "name": "REFERENCE_A/Norway/3806/2016_EPI_ISL_247959_HA",
                                                                         "node_attrs": {
-                                                                          "div": 0.03532714438564043,
+                                                                          "div": 0.035312351603445646,
                                                                           "num_date": {
-                                                                            "value": 2016.4517453801848
+                                                                            "value": 2016.4517453801948
                                                                           }
                                                                         }
                                                                       }
                                                                     ],
-                                                                    "name": "NODE_0000043",
+                                                                    "name": "NODE_0000046",
                                                                     "node_attrs": {
-                                                                      "div": 0.03418912771562618,
+                                                                      "div": 0.03417481508603908,
                                                                       "num_date": {
-                                                                        "value": 2016.2712064547359
+                                                                        "value": 2016.2687064750053
                                                                       }
                                                                     }
                                                                   }
                                                                 ],
-                                                                "name": "NODE_0000042",
+                                                                "name": "NODE_0000045",
                                                                 "node_attrs": {
-                                                                  "div": 0.03248099744343156,
+                                                                  "div": 0.03246739551808076,
                                                                   "num_date": {
-                                                                    "value": 2016.0494866158415
+                                                                    "value": 2016.048915918418
                                                                   }
                                                                 }
                                                               },
@@ -2058,9 +2192,9 @@
                                                                     },
                                                                     "name": "REFERENCE_A/Alsace/1746/2018_EPI_ISL_310233_HA",
                                                                     "node_attrs": {
-                                                                      "div": 0.04104043556782838,
+                                                                      "div": 0.04102328031840612,
                                                                       "num_date": {
-                                                                        "value": 2018.2600958250857
+                                                                        "value": 2018.2600958250957
                                                                       }
                                                                     }
                                                                   },
@@ -2127,9 +2261,9 @@
                                                                             },
                                                                             "name": "REFERENCE_A/Norway/3275/2018_EPI_ISL_332813_HA",
                                                                             "node_attrs": {
-                                                                              "div": 0.04273402283855301,
+                                                                              "div": 0.0427161298754883,
                                                                               "num_date": {
-                                                                                "value": 2018.7583846683438
+                                                                                "value": 2018.7583846683538
                                                                               }
                                                                             }
                                                                           },
@@ -2169,9 +2303,9 @@
                                                                                 },
                                                                                 "name": "REFERENCE_A/South_Australia/34/2019_EPI_ISL_346283_HA",
                                                                                 "node_attrs": {
-                                                                                  "div": 0.04159140815711221,
+                                                                                  "div": 0.04157399465153078,
                                                                                   "num_date": {
-                                                                                    "value": 2019.101300479432
+                                                                                    "value": 2019.101300479442
                                                                                   }
                                                                                 }
                                                                               },
@@ -2193,27 +2327,27 @@
                                                                                 },
                                                                                 "name": "REFERENCE_A/Christchurch/515/2019_EPI_ISL_363210_HA",
                                                                                 "node_attrs": {
-                                                                                  "div": 0.04159049385046004,
+                                                                                  "div": 0.04157307369512711,
                                                                                   "num_date": {
-                                                                                    "value": 2019.2546201235114
+                                                                                    "value": 2019.2546201235214
                                                                                   }
                                                                                 }
                                                                               }
                                                                             ],
-                                                                            "name": "NODE_0000047",
+                                                                            "name": "NODE_0000050",
                                                                             "node_attrs": {
-                                                                              "div": 0.040453528933847155,
+                                                                              "div": 0.040436588013936896,
                                                                               "num_date": {
-                                                                                "value": 2018.8101738287312
+                                                                                "value": 2018.8130809908048
                                                                               }
                                                                             }
                                                                           }
                                                                         ],
-                                                                        "name": "NODE_0000046",
+                                                                        "name": "NODE_0000049",
                                                                         "node_attrs": {
-                                                                          "div": 0.038747244237865165,
+                                                                          "div": 0.03873101264215962,
                                                                           "num_date": {
-                                                                            "value": 2018.1035779013168
+                                                                            "value": 2018.1045599707645
                                                                           }
                                                                         }
                                                                       },
@@ -2258,9 +2392,9 @@
                                                                             },
                                                                             "name": "REFERENCE_A/Hong_Kong/2286/2017_EPI_ISL_289716_HA",
                                                                             "node_attrs": {
-                                                                              "div": 0.040458618124713804,
+                                                                              "div": 0.0404416707322945,
                                                                               "num_date": {
-                                                                                "value": 2018.5739247318313
+                                                                                "value": 2018.541249082233
                                                                               }
                                                                             }
                                                                           },
@@ -2289,9 +2423,9 @@
                                                                                 },
                                                                                 "name": "REFERENCE_A/LaRioja/2202/2018_EPI_ISL_314925_HA",
                                                                                 "node_attrs": {
-                                                                                  "div": 0.03817477373166209,
+                                                                                  "div": 0.038158766934230204,
                                                                                   "num_date": {
-                                                                                    "value": 2018.2518822727243
+                                                                                    "value": 2018.2518822727343
                                                                                   }
                                                                                 }
                                                                               },
@@ -2343,9 +2477,9 @@
                                                                                     },
                                                                                     "name": "A/Lyon/CHU_0095717/2020_HA",
                                                                                     "node_attrs": {
-                                                                                      "div": 0.0444516379667328,
+                                                                                      "div": 0.04443301955246034,
                                                                                       "num_date": {
-                                                                                        "value": 2020.041067762115
+                                                                                        "value": 2020.041067762125
                                                                                       }
                                                                                     }
                                                                                   },
@@ -2377,180 +2511,180 @@
                                                                                     },
                                                                                     "name": "REFERENCE_A/Hong_Kong/2675/2019_EPI_ISL_377306_HA",
                                                                                     "node_attrs": {
-                                                                                      "div": 0.043306324802602915,
+                                                                                      "div": 0.04328812658789097,
                                                                                       "num_date": {
-                                                                                        "value": 2019.4626967833335
+                                                                                        "value": 2019.4626967833435
                                                                                       }
                                                                                     }
                                                                                   }
                                                                                 ],
-                                                                                "name": "NODE_0000050",
+                                                                                "name": "NODE_0000053",
                                                                                 "node_attrs": {
-                                                                                  "div": 0.038743783570605525,
+                                                                                  "div": 0.038727529470994504,
                                                                                   "num_date": {
-                                                                                    "value": 2018.3867219181031
+                                                                                    "value": 2018.3722097542347
                                                                                   }
                                                                                 }
                                                                               }
                                                                             ],
-                                                                            "name": "NODE_0000049",
+                                                                            "name": "NODE_0000052",
                                                                             "node_attrs": {
-                                                                              "div": 0.03760648910120032,
+                                                                              "div": 0.03759072627857177,
                                                                               "num_date": {
-                                                                                "value": 2018.0703926853655
+                                                                                "value": 2018.052539333363
                                                                               }
                                                                             }
                                                                           }
                                                                         ],
-                                                                        "name": "NODE_0000048",
+                                                                        "name": "NODE_0000051",
                                                                         "node_attrs": {
-                                                                          "div": 0.03703820924739888,
+                                                                          "div": 0.037022689940944674,
                                                                           "num_date": {
-                                                                            "value": 2017.8373021516245
+                                                                            "value": 2017.781009958548
                                                                           }
                                                                         }
                                                                       }
                                                                     ],
-                                                                    "name": "NODE_0000045",
+                                                                    "name": "NODE_0000048",
                                                                     "node_attrs": {
-                                                                      "div": 0.03646983112817481,
+                                                                      "div": 0.036454553499462104,
                                                                       "num_date": {
-                                                                        "value": 2017.554912284501
+                                                                        "value": 2017.540151935351
                                                                       }
                                                                     }
                                                                   }
                                                                 ],
-                                                                "name": "NODE_0000044",
+                                                                "name": "NODE_0000047",
                                                                 "node_attrs": {
-                                                                  "div": 0.03533257950941891,
+                                                                  "div": 0.03531778310795707,
                                                                   "num_date": {
-                                                                    "value": 2017.0626298309962
+                                                                    "value": 2017.0411080174458
                                                                   }
                                                                 }
                                                               }
                                                             ],
-                                                            "name": "NODE_0000040",
+                                                            "name": "NODE_0000043",
                                                             "node_attrs": {
-                                                              "div": 0.031912163069761315,
+                                                              "div": 0.031898801533767646,
                                                               "num_date": {
-                                                                "value": 2015.9884077878435
+                                                                "value": 2015.9773270747976
                                                               }
                                                             }
                                                           }
                                                         ],
-                                                        "name": "NODE_0000039",
+                                                        "name": "NODE_0000042",
                                                         "node_attrs": {
-                                                          "div": 0.03077415250135646,
+                                                          "div": 0.030761274017085394,
                                                           "num_date": {
-                                                            "value": 2015.6945063077853
+                                                            "value": 2015.6209144018517
                                                           }
                                                         }
                                                       }
                                                     ],
-                                                    "name": "NODE_0000034",
+                                                    "name": "NODE_0000037",
                                                     "node_attrs": {
-                                                      "div": 0.027925305594232636,
+                                                      "div": 0.027913650469725233,
                                                       "num_date": {
-                                                        "value": 2014.9587659326883
+                                                        "value": 2014.9051064699051
                                                       }
                                                     }
                                                   }
                                                 ],
-                                                "name": "NODE_0000032",
+                                                "name": "NODE_0000035",
                                                 "node_attrs": {
-                                                  "div": 0.025647620949073587,
+                                                  "div": 0.02563693637993448,
                                                   "num_date": {
-                                                    "value": 2014.427435068239
+                                                    "value": 2014.4497489720409
                                                   }
                                                 }
                                               }
                                             ],
-                                            "name": "NODE_0000030",
+                                            "name": "NODE_0000033",
                                             "node_attrs": {
-                                              "div": 0.024509770877658446,
+                                              "div": 0.0244995708171432,
                                               "num_date": {
-                                                "value": 2014.1535921413968
+                                                "value": 2014.1535120379701
                                               }
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000029",
+                                        "name": "NODE_0000032",
                                         "node_attrs": {
-                                          "div": 0.020514609327179398,
+                                          "div": 0.02050609879254006,
                                           "num_date": {
-                                            "value": 2012.5211422501072
+                                            "value": 2012.6361207213324
                                           }
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000013",
+                                    "name": "NODE_0000016",
                                     "node_attrs": {
-                                      "div": 0.01823723433953285,
+                                      "div": 0.01822969326496329,
                                       "num_date": {
-                                        "value": 2011.901003849208
+                                        "value": 2012.0988548336136
                                       }
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000014",
+                                "name": "NODE_0000017",
                                 "node_attrs": {
-                                  "div": 0.01652996328895738,
+                                  "div": 0.016523151216698014,
                                   "num_date": {
-                                    "value": 2011.5760336050494
+                                    "value": 2011.578260609516
                                   }
                                 }
                               }
                             ],
-                            "name": "NODE_0000019",
+                            "name": "NODE_0000022",
                             "node_attrs": {
-                              "div": 0.0142513151962147,
+                              "div": 0.014245459563427201,
                               "num_date": {
-                                "value": 2011.106367756049
+                                "value": 2011.1355059106745
                               }
                             }
                           }
                         ],
-                        "name": "NODE_0000020",
+                        "name": "NODE_0000023",
                         "node_attrs": {
-                          "div": 0.011973781428503402,
+                          "div": 0.01196887903993006,
                           "num_date": {
-                            "value": 2010.3932925363963
+                            "value": 2010.5206661406614
                           }
                         }
                       }
                     ],
-                    "name": "NODE_0000021",
+                    "name": "NODE_0000024",
                     "node_attrs": {
-                      "div": 0.009695990642590153,
+                      "div": 0.009692035578336932,
                       "num_date": {
-                        "value": 2009.4193823584737
+                        "value": 2009.913714535821
                       }
                     }
                   }
                 ],
-                "name": "NODE_0000009",
+                "name": "NODE_0000007",
                 "node_attrs": {
-                  "div": 0.009127416067856959,
+                  "div": 0.00912369703687849,
                   "num_date": {
-                    "value": 2009.2633872327744
+                    "value": 2009.4042951235638
                   }
                 }
               }
             ],
-            "name": "NODE_0000022",
+            "name": "NODE_0000025",
             "node_attrs": {
-              "div": 0.009127416067856959,
+              "div": 0.009123697036878476,
               "num_date": {
-                "value": 2009.18596012554
+                "value": 2009.1320445722313
               }
             }
           }
         ],
-        "name": "NODE_0000023",
+        "name": "NODE_0000026",
         "node_attrs": {
-          "div": 0.005709097468267817,
+          "div": 0.005706771561167214,
           "num_date": {
-            "value": 2008.14003039228
+            "value": 2008.2061175926
           }
         }
       }
@@ -2559,7 +2693,7 @@
     "node_attrs": {
       "div": 0,
       "num_date": {
-        "value": 2006.8864202201219
+        "value": 2006.961743190727
       }
     }
   },
