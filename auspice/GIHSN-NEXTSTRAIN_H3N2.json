@@ -1,0 +1,1717 @@
+{
+  "meta": {
+    "colorings": [
+      {
+        "key": "num_date",
+        "title": "Sampling date",
+        "type": "continuous"
+      },
+      {
+        "key": "gt",
+        "title": "Genotype",
+        "type": "categorical"
+      },
+      {
+        "key": "subtype",
+        "title": "subtype",
+        "type": "categorical"
+      },
+      {
+        "key": "clade",
+        "title": "clade",
+        "type": "categorical"
+      },
+      {
+        "key": "country",
+        "title": "country",
+        "type": "categorical"
+      }
+    ],
+    "filters": [
+      "clade",
+      "country",
+      "subtype"
+    ],
+    "panels": [
+      "tree"
+    ],
+    "title": "VISU GIHSN",
+    "updated": "2020-04-23"
+  },
+  "tree": {
+    "branch_attrs": {
+      "mutations": {}
+    },
+    "children": [
+      {
+        "branch_attrs": {
+          "mutations": {
+            "nuc": [
+              "A260G",
+              "A497G"
+            ]
+          }
+        },
+        "name": "A/Norway/3806/2016",
+        "node_attrs": {
+          "clade": {
+            "value": "3C.2a1"
+          },
+          "country": {
+            "value": "Norway"
+          },
+          "div": 0.001706645191349825,
+          "num_date": {
+            "value": 2016.451745380071
+          },
+          "subtype": {
+            "value": "H3N2"
+          }
+        }
+      },
+      {
+        "branch_attrs": {
+          "mutations": {}
+        },
+        "children": [
+          {
+            "branch_attrs": {
+              "mutations": {
+                "nuc": [
+                  "T284C",
+                  "G310A",
+                  "A441G",
+                  "C481A",
+                  "C685T",
+                  "C1610T",
+                  "A1738G"
+                ]
+              }
+            },
+            "name": "A/Greece/4/2017",
+            "node_attrs": {
+              "clade": {
+                "value": "3C.2a1a"
+              },
+              "country": {
+                "value": "Greece"
+              },
+              "div": 0.004561248977595274,
+              "num_date": {
+                "value": 2017.0054757017688
+              },
+              "subtype": {
+                "value": "H3N2"
+              }
+            }
+          },
+          {
+            "branch_attrs": {
+              "mutations": {
+                "nuc": [
+                  "T143C",
+                  "A556C",
+                  "C658T"
+                ]
+              }
+            },
+            "children": [
+              {
+                "branch_attrs": {
+                  "mutations": {
+                    "nuc": [
+                      "A501G",
+                      "C1224A",
+                      "A1565G",
+                      "G1607A"
+                    ]
+                  }
+                },
+                "name": "A/Singapore/INFIMH-16-0019/2016",
+                "node_attrs": {
+                  "clade": {
+                    "value": "3C.2a1(a)"
+                  },
+                  "country": {
+                    "value": "Singapore"
+                  },
+                  "div": 0.003414518610994354,
+                  "num_date": {
+                    "value": 2016.4544832308584
+                  },
+                  "subtype": {
+                    "value": "H3N2"
+                  }
+                }
+              },
+              {
+                "branch_attrs": {
+                  "mutations": {
+                    "nuc": [
+                      "A1513G"
+                    ]
+                  }
+                },
+                "children": [
+                  {
+                    "branch_attrs": {
+                      "mutations": {
+                        "nuc": [
+                          "A717G",
+                          "T1088C"
+                        ]
+                      }
+                    },
+                    "name": "A/Oman/5466/2016",
+                    "node_attrs": {
+                      "clade": {
+                        "value": "3C.2a1"
+                      },
+                      "country": {
+                        "value": "Oman"
+                      },
+                      "div": 0.0028432823642285596,
+                      "num_date": {
+                        "value": 2016.5147159481753
+                      },
+                      "subtype": {
+                        "value": "H3N2"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {
+                      "mutations": {
+                        "nuc": [
+                          "G1226A"
+                        ]
+                      }
+                    },
+                    "children": [
+                      {
+                        "branch_attrs": {
+                          "mutations": {
+                            "nuc": [
+                              "G263A",
+                              "A440C",
+                              "G590T",
+                              "A1235G",
+                              "G1293A",
+                              "A1298G",
+                              "A1528G"
+                            ]
+                          }
+                        },
+                        "children": [
+                          {
+                            "branch_attrs": {
+                              "mutations": {}
+                            },
+                            "name": "A/Cote_D_Ivoire/544/2016",
+                            "node_attrs": {
+                              "div": 0.006265673679505587,
+                              "num_date": {
+                                "value": 2016.5371052019063
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {
+                              "mutations": {
+                                "nuc": [
+                                  "C345A",
+                                  "T377C",
+                                  "C469A",
+                                  "T470A",
+                                  "C494T",
+                                  "G502A",
+                                  "T734C",
+                                  "G859A",
+                                  "A1064G",
+                                  "G1154A",
+                                  "A1514T",
+                                  "C1718T"
+                                ]
+                              }
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {
+                                    "nuc": [
+                                      "C138T",
+                                      "A352G",
+                                      "C733T",
+                                      "A854G",
+                                      "A1226G"
+                                    ]
+                                  }
+                                },
+                                "name": "A/Bretagne/1565/2017",
+                                "node_attrs": {
+                                  "clade": {
+                                    "value": "3C.2a2"
+                                  },
+                                  "country": {
+                                    "value": "France"
+                                  },
+                                  "div": 0.015974633121721697,
+                                  "num_date": {
+                                    "value": 2017.8898015060124
+                                  },
+                                  "subtype": {
+                                    "value": "H3N2"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {
+                                    "nuc": [
+                                      "G711A",
+                                      "A737G"
+                                    ]
+                                  }
+                                },
+                                "name": "A/Wisconsin/04/2018",
+                                "node_attrs": {
+                                  "clade": {
+                                    "value": "3C.2a2"
+                                  },
+                                  "country": {
+                                    "value": "United States"
+                                  },
+                                  "div": 0.014264877626782474,
+                                  "num_date": {
+                                    "value": 2018.0054757017688
+                                  },
+                                  "subtype": {
+                                    "value": "H3N2"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000023",
+                            "node_attrs": {
+                              "div": 0.013127012714965747,
+                              "num_date": {
+                                "value": 2017.6630742490445
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {
+                              "mutations": {
+                                "nuc": [
+                                  "A55G",
+                                  "A167G",
+                                  "T201C",
+                                  "T212C",
+                                  "T338C",
+                                  "G349A",
+                                  "C395A",
+                                  "G404A",
+                                  "A459G",
+                                  "G489T",
+                                  "A501G",
+                                  "G508A",
+                                  "T509A",
+                                  "A553C",
+                                  "C556A",
+                                  "T560C",
+                                  "G569A",
+                                  "G620T",
+                                  "T655C",
+                                  "T665A",
+                                  "A722G",
+                                  "G794A",
+                                  "C944A",
+                                  "C989A",
+                                  "T1010A",
+                                  "A1054G",
+                                  "T1133C",
+                                  "C1178T",
+                                  "A1271G",
+                                  "A1289G",
+                                  "T1325A",
+                                  "A1466C",
+                                  "A1514G",
+                                  "A1520C",
+                                  "G1547A",
+                                  "T1668C",
+                                  "A1712G"
+                                ]
+                              }
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {
+                                    "nuc": [
+                                      "A1040G"
+                                    ]
+                                  }
+                                },
+                                "name": "A/England/538/2018",
+                                "node_attrs": {
+                                  "clade": {
+                                    "value": "3C.3a"
+                                  },
+                                  "country": {
+                                    "value": "United Kingdom"
+                                  },
+                                  "div": 0.028238793597394042,
+                                  "num_date": {
+                                    "value": 2018.1560574950608
+                                  },
+                                  "subtype": {
+                                    "value": "H3N2"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {
+                                    "nuc": [
+                                      "A905G",
+                                      "A1511G"
+                                    ]
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {}
+                                    },
+                                    "name": "A/Kansas/14/2017",
+                                    "node_attrs": {
+                                      "clade": {
+                                        "value": "3C.3a"
+                                      },
+                                      "country": {
+                                        "value": "United States"
+                                      },
+                                      "div": 0.02880711582017834,
+                                      "num_date": {
+                                        "value": 2017.9527720743106
+                                      },
+                                      "subtype": {
+                                        "value": "H3N2"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {}
+                                    },
+                                    "children": [
+                                      {
+                                        "branch_attrs": {
+                                          "mutations": {
+                                            "nuc": [
+                                              "G1116A"
+                                            ]
+                                          }
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {
+                                                "nuc": [
+                                                  "G1012A",
+                                                  "A1097C"
+                                                ]
+                                              }
+                                            },
+                                            "name": "A/Mexico/INCMNSZ/BMQ484/Dec2019/H3N2",
+                                            "node_attrs": {
+                                              "clade": {
+                                                "value": "UKN"
+                                              },
+                                              "country": {
+                                                "value": "Mexico"
+                                              },
+                                              "div": 0.030511554285725714,
+                                              "num_date": {
+                                                "value": 2019.944558521755
+                                              },
+                                              "subtype": {
+                                                "value": "H3N2"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {
+                                                "nuc": [
+                                                  "C243T",
+                                                  "A322G",
+                                                  "A438G",
+                                                  "A464G",
+                                                  "G824A",
+                                                  "G1700A"
+                                                ]
+                                              }
+                                            },
+                                            "name": "A/Mexico/INCMNSZ/BMQ530/Dec2019/H3N2",
+                                            "node_attrs": {
+                                              "clade": {
+                                                "value": "UKN"
+                                              },
+                                              "country": {
+                                                "value": "Mexico"
+                                              },
+                                              "div": 0.03278905737424781,
+                                              "num_date": {
+                                                "value": 2019.9555099249035
+                                              },
+                                              "subtype": {
+                                                "value": "H3N2"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000028",
+                                        "node_attrs": {
+                                          "div": 0.02937499784947804,
+                                          "num_date": {
+                                            "value": 2019.4146764165278
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {
+                                          "mutations": {
+                                            "nuc": [
+                                              "A347G",
+                                              "A1113T",
+                                              "A1523G",
+                                              "C1666T"
+                                            ]
+                                          }
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {
+                                                "nuc": [
+                                                  "A1565G"
+                                                ]
+                                              }
+                                            },
+                                            "children": [
+                                              {
+                                                "branch_attrs": {
+                                                  "mutations": {
+                                                    "nuc": [
+                                                      "T65C",
+                                                      "G125A",
+                                                      "A182G",
+                                                      "C923T",
+                                                      "T926C",
+                                                      "G1139A",
+                                                      "A1547G",
+                                                      "T1563C"
+                                                    ]
+                                                  }
+                                                },
+                                                "name": "A/Mexico/INCMNSZ/BMQ285/Nov2019/H3N2",
+                                                "node_attrs": {
+                                                  "clade": {
+                                                    "value": "UKN"
+                                                  },
+                                                  "country": {
+                                                    "value": "Mexico"
+                                                  },
+                                                  "div": 0.036203284605822186,
+                                                  "num_date": {
+                                                    "value": 2019.9089664615224
+                                                  },
+                                                  "subtype": {
+                                                    "value": "H3N2"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {
+                                                  "mutations": {
+                                                    "nuc": [
+                                                      "G225A",
+                                                      "C1232T",
+                                                      "A1238G",
+                                                      "G1289A",
+                                                      "A1481G"
+                                                    ]
+                                                  }
+                                                },
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {
+                                                      "mutations": {
+                                                        "nuc": [
+                                                          "T1113A",
+                                                          "G1116A",
+                                                          "T1211C",
+                                                          "C1301T"
+                                                        ]
+                                                      }
+                                                    },
+                                                    "name": "A/Mexico/INCMNSZ/BMQ814/Dec2019/H3N2",
+                                                    "node_attrs": {
+                                                      "clade": {
+                                                        "value": "UKN"
+                                                      },
+                                                      "country": {
+                                                        "value": "Mexico"
+                                                      },
+                                                      "div": 0.036767364251903294,
+                                                      "num_date": {
+                                                        "value": 2019.9911019851363
+                                                      },
+                                                      "subtype": {
+                                                        "value": "H3N2"
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {
+                                                      "mutations": {
+                                                        "nuc": [
+                                                          "C112A",
+                                                          "G722A",
+                                                          "C923T",
+                                                          "T926C",
+                                                          "T1023C",
+                                                          "G1139A",
+                                                          "G1271A",
+                                                          "G1607A"
+                                                        ]
+                                                      }
+                                                    },
+                                                    "name": "A/Mexico/INCMNSZ/BMQ317/Dec2019/H3N2",
+                                                    "node_attrs": {
+                                                      "clade": {
+                                                        "value": "UKN"
+                                                      },
+                                                      "country": {
+                                                        "value": "Mexico"
+                                                      },
+                                                      "div": 0.03904885366249661,
+                                                      "num_date": {
+                                                        "value": 2019.9199178646709
+                                                      },
+                                                      "subtype": {
+                                                        "value": "H3N2"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": "NODE_0000031",
+                                                "node_attrs": {
+                                                  "div": 0.034492689965602334,
+                                                  "num_date": {
+                                                    "value": 2019.508664750277
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000030",
+                                            "node_attrs": {
+                                              "div": 0.0316497253728188,
+                                              "num_date": {
+                                                "value": 2019.1800358249125
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {
+                                                "nuc": [
+                                                  "A1046G",
+                                                  "G1109A",
+                                                  "C1349T",
+                                                  "G1352A",
+                                                  "G1553A"
+                                                ]
+                                              }
+                                            },
+                                            "children": [
+                                              {
+                                                "branch_attrs": {
+                                                  "mutations": {
+                                                    "nuc": [
+                                                      "A83G",
+                                                      "G1289A",
+                                                      "A1570G"
+                                                    ]
+                                                  }
+                                                },
+                                                "name": "A/Romania/13/2019",
+                                                "node_attrs": {
+                                                  "clade": {
+                                                    "value": "UKN"
+                                                  },
+                                                  "country": {
+                                                    "value": "Romania"
+                                                  },
+                                                  "div": 0.03563093463518267,
+                                                  "num_date": {
+                                                    "value": 2019.9965776867105
+                                                  },
+                                                  "subtype": {
+                                                    "value": "H3N2"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {
+                                                  "mutations": {
+                                                    "nuc": [
+                                                      "G113A",
+                                                      "G234A",
+                                                      "C872T"
+                                                    ]
+                                                  }
+                                                },
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {
+                                                      "mutations": {}
+                                                    },
+                                                    "name": "A/Romania/2/2019",
+                                                    "node_attrs": {
+                                                      "clade": {
+                                                        "value": "UKN"
+                                                      },
+                                                      "country": {
+                                                        "value": "Romania"
+                                                      },
+                                                      "div": 0.03563138831159964,
+                                                      "num_date": {
+                                                        "value": 2019.9582477758847
+                                                      },
+                                                      "subtype": {
+                                                        "value": "H3N2"
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {
+                                                      "mutations": {}
+                                                    },
+                                                    "name": "A/Romania/9/2019",
+                                                    "node_attrs": {
+                                                      "clade": {
+                                                        "value": "UKN"
+                                                      },
+                                                      "country": {
+                                                        "value": "Romania"
+                                                      },
+                                                      "div": 0.03563138831159964,
+                                                      "num_date": {
+                                                        "value": 2019.9774127312005
+                                                      },
+                                                      "subtype": {
+                                                        "value": "H3N2"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": "NODE_0000035",
+                                                "node_attrs": {
+                                                  "div": 0.03563138831159962,
+                                                  "num_date": {
+                                                    "value": 2019.9582477756906
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {
+                                                  "mutations": {}
+                                                },
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {
+                                                      "mutations": {
+                                                        "nuc": [
+                                                          "A26G",
+                                                          "C173T"
+                                                        ]
+                                                      }
+                                                    },
+                                                    "name": "A/Romania/8/2019",
+                                                    "node_attrs": {
+                                                      "clade": {
+                                                        "value": "UKN"
+                                                      },
+                                                      "country": {
+                                                        "value": "Romania"
+                                                      },
+                                                      "div": 0.03506216703296281,
+                                                      "num_date": {
+                                                        "value": 2019.9774127312005
+                                                      },
+                                                      "subtype": {
+                                                        "value": "H3N2"
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {
+                                                      "mutations": {
+                                                        "nuc": [
+                                                          "A322G",
+                                                          "G1731A"
+                                                        ]
+                                                      }
+                                                    },
+                                                    "name": "A/Romania/4/2019",
+                                                    "node_attrs": {
+                                                      "clade": {
+                                                        "value": "UKN"
+                                                      },
+                                                      "country": {
+                                                        "value": "Romania"
+                                                      },
+                                                      "div": 0.03506219717957519,
+                                                      "num_date": {
+                                                        "value": 2019.963723477265
+                                                      },
+                                                      "subtype": {
+                                                        "value": "H3N2"
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": "NODE_0000024",
+                                                "node_attrs": {
+                                                  "div": 0.03392579363392763,
+                                                  "num_date": {
+                                                    "value": 2019.7813883132842
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000032",
+                                            "node_attrs": {
+                                              "div": 0.03392579363392761,
+                                              "num_date": {
+                                                "value": 2019.7813883132842
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000029",
+                                        "node_attrs": {
+                                          "div": 0.03108199698606356,
+                                          "num_date": {
+                                            "value": 2019.115800724076
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000014",
+                                    "node_attrs": {
+                                      "div": 0.02880711582017834,
+                                      "num_date": {
+                                        "value": 2018.6542332890872
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000026",
+                                "node_attrs": {
+                                  "div": 0.028807115820178322,
+                                  "num_date": {
+                                    "value": 2017.9527720741164
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000025",
+                            "node_attrs": {
+                              "div": 0.02767082861393953,
+                              "num_date": {
+                                "value": 2017.8742737075004
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000022",
+                        "node_attrs": {
+                          "div": 0.006265673679505568,
+                          "num_date": {
+                            "value": 2016.5371052019063
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {
+                          "mutations": {
+                            "nuc": [
+                              "A293G",
+                              "T308C",
+                              "A352G",
+                              "T567C",
+                              "T1010A"
+                            ]
+                          }
+                        },
+                        "children": [
+                          {
+                            "branch_attrs": {
+                              "mutations": {
+                                "nuc": [
+                                  "C119T",
+                                  "A249G",
+                                  "T623C",
+                                  "A667G",
+                                  "G911A",
+                                  "T1061C",
+                                  "A1226C",
+                                  "T1325C",
+                                  "T1364G",
+                                  "T1472A"
+                                ]
+                              }
+                            },
+                            "name": "A/Alsace/1746/2018",
+                            "node_attrs": {
+                              "clade": {
+                                "value": "3C.2a1b"
+                              },
+                              "country": {
+                                "value": "France"
+                              },
+                              "div": 0.010827783709353948,
+                              "num_date": {
+                                "value": 2018.260095824972
+                              },
+                              "subtype": {
+                                "value": "H3N2"
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {
+                              "mutations": {
+                                "nuc": [
+                                  "A262G",
+                                  "A501G"
+                                ]
+                              }
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {
+                                    "nuc": [
+                                      "C469A",
+                                      "T470A",
+                                      "T1391C",
+                                      "G1662A"
+                                    ]
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {
+                                        "nuc": [
+                                          "T188C",
+                                          "C215T",
+                                          "C394T",
+                                          "A737G",
+                                          "C908T",
+                                          "A1046G",
+                                          "T1616C"
+                                        ]
+                                      }
+                                    },
+                                    "name": "A/Norway/3275/2018",
+                                    "node_attrs": {
+                                      "clade": {
+                                        "value": "3C.2a1b"
+                                      },
+                                      "country": {
+                                        "value": "Norway"
+                                      },
+                                      "div": 0.012519845465520436,
+                                      "num_date": {
+                                        "value": 2018.75838466823
+                                      },
+                                      "subtype": {
+                                        "value": "H3N2"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {
+                                        "nuc": [
+                                          "C733T",
+                                          "A1010G",
+                                          "G1116A"
+                                        ]
+                                      }
+                                    },
+                                    "children": [
+                                      {
+                                        "branch_attrs": {
+                                          "mutations": {
+                                            "nuc": [
+                                              "G383A",
+                                              "T1262A"
+                                            ]
+                                          }
+                                        },
+                                        "name": "A/South_Australia/34/2019",
+                                        "node_attrs": {
+                                          "clade": {
+                                            "value": "3C.2a1b (+131K)"
+                                          },
+                                          "country": {
+                                            "value": "Australia"
+                                          },
+                                          "div": 0.011377326907809534,
+                                          "num_date": {
+                                            "value": 2019.1013004793183
+                                          },
+                                          "subtype": {
+                                            "value": "H3N2"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {
+                                          "mutations": {
+                                            "nuc": [
+                                              "A221G",
+                                              "T485C",
+                                              "A667G",
+                                              "A697G",
+                                              "T718C",
+                                              "A935G",
+                                              "T1124C",
+                                              "A1528G"
+                                            ]
+                                          }
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {
+                                                "nuc": [
+                                                  "T72C"
+                                                ]
+                                              }
+                                            },
+                                            "name": "A/Romania/12/2019",
+                                            "node_attrs": {
+                                              "clade": {
+                                                "value": "UKN"
+                                              },
+                                              "country": {
+                                                "value": "Romania"
+                                              },
+                                              "div": 0.01536239773135544,
+                                              "num_date": {
+                                                "value": 2019.9774127312005
+                                              },
+                                              "subtype": {
+                                                "value": "H3N2"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {
+                                                "nuc": [
+                                                  "C365T",
+                                                  "T1016C",
+                                                  "C1508T"
+                                                ]
+                                              }
+                                            },
+                                            "name": "A/Saint-Petersburg/RII-3057S/2020",
+                                            "node_attrs": {
+                                              "clade": {
+                                                "value": "UKN"
+                                              },
+                                              "country": {
+                                                "value": "Russian Federation"
+                                              },
+                                              "div": 0.016498845504989257,
+                                              "num_date": {
+                                                "value": 2020.1724845997837
+                                              },
+                                              "subtype": {
+                                                "value": "H3N2"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000013",
+                                        "node_attrs": {
+                                          "div": 0.014794911958268129,
+                                          "num_date": {
+                                            "value": 2019.890818505187
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000012",
+                                    "node_attrs": {
+                                      "div": 0.010240232146649524,
+                                      "num_date": {
+                                        "value": 2018.8787576310567
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {
+                                        "nuc": [
+                                          "G68T",
+                                          "T86C",
+                                          "A324G",
+                                          "T357A",
+                                          "T491G",
+                                          "C518T",
+                                          "A956G",
+                                          "T1016C",
+                                          "T1061C",
+                                          "A1643G"
+                                        ]
+                                      }
+                                    },
+                                    "children": [
+                                      {
+                                        "branch_attrs": {
+                                          "mutations": {
+                                            "nuc": [
+                                              "A134G",
+                                              "C815T",
+                                              "G1085A",
+                                              "C1301T",
+                                              "T1736G"
+                                            ]
+                                          }
+                                        },
+                                        "name": "A/Saint-Petersburg/RII-1601S/2020",
+                                        "node_attrs": {
+                                          "clade": {
+                                            "value": "UKN"
+                                          },
+                                          "country": {
+                                            "value": "Russian Federation"
+                                          },
+                                          "div": 0.01708325839189181,
+                                          "num_date": {
+                                            "value": 2020.0821355238083
+                                          },
+                                          "subtype": {
+                                            "value": "H3N2"
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {
+                                          "mutations": {}
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {
+                                                "nuc": [
+                                                  "A358G",
+                                                  "T380G",
+                                                  "A887T"
+                                                ]
+                                              }
+                                            },
+                                            "name": "A/Saint-Petersburg/RII-2191S/2020",
+                                            "node_attrs": {
+                                              "clade": {
+                                                "value": "UKN"
+                                              },
+                                              "country": {
+                                                "value": "Russian Federation"
+                                              },
+                                              "div": 0.015945075899917983,
+                                              "num_date": {
+                                                "value": 2020.1122518824668
+                                              },
+                                              "subtype": {
+                                                "value": "H3N2"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {
+                                                "nuc": [
+                                                  "A318C",
+                                                  "T368C"
+                                                ]
+                                              }
+                                            },
+                                            "name": "A/Saint-Petersburg/RII-2079S/2020",
+                                            "node_attrs": {
+                                              "clade": {
+                                                "value": "UKN"
+                                              },
+                                              "country": {
+                                                "value": "Russian Federation"
+                                              },
+                                              "div": 0.015375583614251065,
+                                              "num_date": {
+                                                "value": 2020.1149897332539
+                                              },
+                                              "subtype": {
+                                                "value": "H3N2"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000033",
+                                        "node_attrs": {
+                                          "div": 0.014239753114253769,
+                                          "num_date": {
+                                            "value": 2019.7965679566569
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000015",
+                                    "node_attrs": {
+                                      "div": 0.01423975311425375,
+                                      "num_date": {
+                                        "value": 2019.7965679566569
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000011",
+                                "node_attrs": {
+                                  "div": 0.0085347949389604,
+                                  "num_date": {
+                                    "value": 2018.3323762338848
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {
+                                    "nuc": [
+                                      "A459G",
+                                      "C481A"
+                                    ]
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {
+                                        "nuc": [
+                                          "A1290C"
+                                        ]
+                                      }
+                                    },
+                                    "name": "A/LaRioja/2202/2018",
+                                    "node_attrs": {
+                                      "clade": {
+                                        "value": "3C.2a1b+135K_A"
+                                      },
+                                      "country": {
+                                        "value": "Spain"
+                                      },
+                                      "div": 0.007963309702750785,
+                                      "num_date": {
+                                        "value": 2018.2518822726106
+                                      },
+                                      "subtype": {
+                                        "value": "H3N2"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {
+                                        "nuc": [
+                                          "G489T",
+                                          "T655C"
+                                        ]
+                                      }
+                                    },
+                                    "children": [
+                                      {
+                                        "branch_attrs": {
+                                          "mutations": {
+                                            "nuc": [
+                                              "G200A",
+                                              "G293A",
+                                              "A503T",
+                                              "C572T",
+                                              "T623C",
+                                              "G634A",
+                                              "G645A",
+                                              "T669C",
+                                              "A1466G",
+                                              "G1586A"
+                                            ]
+                                          }
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {}
+                                            },
+                                            "name": "A/Lyon/CHU_0095717/2020",
+                                            "node_attrs": {
+                                              "clade": {
+                                                "value": "UKN"
+                                              },
+                                              "country": {
+                                                "value": "France"
+                                              },
+                                              "div": 0.014236558016954289,
+                                              "num_date": {
+                                                "value": 2020.0410677620014
+                                              },
+                                              "subtype": {
+                                                "value": "H3N2"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {
+                                                "nuc": [
+                                                  "G349A",
+                                                  "A1298G"
+                                                ]
+                                              }
+                                            },
+                                            "name": "A/Saint-Petersburg/RII-2350S/2020",
+                                            "node_attrs": {
+                                              "clade": {
+                                                "value": "UKN"
+                                              },
+                                              "country": {
+                                                "value": "Russian Federation"
+                                              },
+                                              "div": 0.015373718673454257,
+                                              "num_date": {
+                                                "value": 2020.1341546887638
+                                              },
+                                              "subtype": {
+                                                "value": "H3N2"
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000000",
+                                        "node_attrs": {
+                                          "div": 0.01423655801695427,
+                                          "num_date": {
+                                            "value": 2019.9684209881132
+                                          }
+                                        }
+                                      },
+                                      {
+                                        "branch_attrs": {
+                                          "mutations": {
+                                            "nuc": [
+                                              "G75A",
+                                              "C487T",
+                                              "C545T",
+                                              "A968G",
+                                              "C1076T",
+                                              "T1721C"
+                                            ]
+                                          }
+                                        },
+                                        "children": [
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {
+                                                "nuc": [
+                                                  "G349A",
+                                                  "A1604T"
+                                                ]
+                                              }
+                                            },
+                                            "name": "A/Hong_Kong/2675/2019",
+                                            "node_attrs": {
+                                              "clade": {
+                                                "value": "3C.2a1b+135K_B"
+                                              },
+                                              "country": {
+                                                "value": "Hong Kong (SAR)"
+                                              },
+                                              "div": 0.013084553080119294,
+                                              "num_date": {
+                                                "value": 2019.4626967832198
+                                              },
+                                              "subtype": {
+                                                "value": "H3N2"
+                                              }
+                                            }
+                                          },
+                                          {
+                                            "branch_attrs": {
+                                              "mutations": {}
+                                            },
+                                            "children": [
+                                              {
+                                                "branch_attrs": {
+                                                  "mutations": {
+                                                    "nuc": [
+                                                      "G302A",
+                                                      "C311T",
+                                                      "A612G",
+                                                      "A821C",
+                                                      "A1190G",
+                                                      "A1283G",
+                                                      "G1586A"
+                                                    ]
+                                                  }
+                                                },
+                                                "name": "A/Saint-Petersburg/RII-2974S/2020",
+                                                "node_attrs": {
+                                                  "clade": {
+                                                    "value": "UKN"
+                                                  },
+                                                  "country": {
+                                                    "value": "Russian Federation"
+                                                  },
+                                                  "div": 0.01593388545777777,
+                                                  "num_date": {
+                                                    "value": 2020.1587953458481
+                                                  },
+                                                  "subtype": {
+                                                    "value": "H3N2"
+                                                  }
+                                                }
+                                              },
+                                              {
+                                                "branch_attrs": {
+                                                  "mutations": {}
+                                                },
+                                                "children": [
+                                                  {
+                                                    "branch_attrs": {
+                                                      "mutations": {
+                                                        "nuc": [
+                                                          "T70C",
+                                                          "G434A",
+                                                          "G859A",
+                                                          "A893G",
+                                                          "A1426G",
+                                                          "G1442A"
+                                                        ]
+                                                      }
+                                                    },
+                                                    "name": "A/Saint-Petersburg/RII-2081S/2020",
+                                                    "node_attrs": {
+                                                      "clade": {
+                                                        "value": "UKN"
+                                                      },
+                                                      "country": {
+                                                        "value": "Russian Federation"
+                                                      },
+                                                      "div": 0.015362697929454279,
+                                                      "num_date": {
+                                                        "value": 2020.1149897332539
+                                                      },
+                                                      "subtype": {
+                                                        "value": "H3N2"
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "branch_attrs": {
+                                                      "mutations": {
+                                                        "nuc": [
+                                                          "T63C",
+                                                          "G225A",
+                                                          "G508A"
+                                                        ]
+                                                      }
+                                                    },
+                                                    "children": [
+                                                      {
+                                                        "branch_attrs": {
+                                                          "mutations": {
+                                                            "nuc": [
+                                                              "A684G"
+                                                            ]
+                                                          }
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "branch_attrs": {
+                                                              "mutations": {}
+                                                            },
+                                                            "name": "A/Saint-Petersburg/RII-2835S/2020",
+                                                            "node_attrs": {
+                                                              "clade": {
+                                                                "value": "UKN"
+                                                              },
+                                                              "country": {
+                                                                "value": "Russian Federation"
+                                                              },
+                                                              "div": 0.014221304210230351,
+                                                              "num_date": {
+                                                                "value": 2020.1423682411253
+                                                              },
+                                                              "subtype": {
+                                                                "value": "H3N2"
+                                                              }
+                                                            }
+                                                          },
+                                                          {
+                                                            "branch_attrs": {
+                                                              "mutations": {
+                                                                "nuc": [
+                                                                  "A1283T"
+                                                                ]
+                                                              }
+                                                            },
+                                                            "name": "A/Saint-Petersburg/RII-2347S/2020",
+                                                            "node_attrs": {
+                                                              "clade": {
+                                                                "value": "UKN"
+                                                              },
+                                                              "country": {
+                                                                "value": "Russian Federation"
+                                                              },
+                                                              "div": 0.014789735107586483,
+                                                              "num_date": {
+                                                                "value": 2020.1232032856153
+                                                              },
+                                                              "subtype": {
+                                                                "value": "H3N2"
+                                                              }
+                                                            }
+                                                          }
+                                                        ],
+                                                        "name": "NODE_0000006",
+                                                        "node_attrs": {
+                                                          "div": 0.014221304210230332,
+                                                          "num_date": {
+                                                            "value": 2020.07387079494
+                                                          }
+                                                        }
+                                                      },
+                                                      {
+                                                        "branch_attrs": {
+                                                          "mutations": {}
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "branch_attrs": {
+                                                              "mutations": {}
+                                                            },
+                                                            "name": "A/Saint-Petersburg/RII-2865S/2020",
+                                                            "node_attrs": {
+                                                              "clade": {
+                                                                "value": "UKN"
+                                                              },
+                                                              "country": {
+                                                                "value": "Russian Federation"
+                                                              },
+                                                              "div": 0.013653107562924647,
+                                                              "num_date": {
+                                                                "value": 2020.1587953458481
+                                                              },
+                                                              "subtype": {
+                                                                "value": "H3N2"
+                                                              }
+                                                            }
+                                                          },
+                                                          {
+                                                            "branch_attrs": {
+                                                              "mutations": {}
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "branch_attrs": {
+                                                                  "mutations": {}
+                                                                },
+                                                                "name": "A/Saint-Petersburg/RII-2112S/2020",
+                                                                "node_attrs": {
+                                                                  "clade": {
+                                                                    "value": "UKN"
+                                                                  },
+                                                                  "country": {
+                                                                    "value": "Russian Federation"
+                                                                  },
+                                                                  "div": 0.013653107562924666,
+                                                                  "num_date": {
+                                                                    "value": 2020.1177275840412
+                                                                  },
+                                                                  "subtype": {
+                                                                    "value": "H3N2"
+                                                                  }
+                                                                }
+                                                              },
+                                                              {
+                                                                "branch_attrs": {
+                                                                  "mutations": {}
+                                                                },
+                                                                "name": "A/Saint-Petersburg/RII-2444S/2020",
+                                                                "node_attrs": {
+                                                                  "clade": {
+                                                                    "value": "UKN"
+                                                                  },
+                                                                  "country": {
+                                                                    "value": "Russian Federation"
+                                                                  },
+                                                                  "div": 0.013653107562924666,
+                                                                  "num_date": {
+                                                                    "value": 2020.1341546887638
+                                                                  },
+                                                                  "subtype": {
+                                                                    "value": "H3N2"
+                                                                  }
+                                                                }
+                                                              }
+                                                            ],
+                                                            "name": "NODE_0000042",
+                                                            "node_attrs": {
+                                                              "div": 0.013653107562924647,
+                                                              "num_date": {
+                                                                "value": 2020.107939486379
+                                                              }
+                                                            }
+                                                          }
+                                                        ],
+                                                        "name": "NODE_0000041",
+                                                        "node_attrs": {
+                                                          "div": 0.013653107562924628,
+                                                          "num_date": {
+                                                            "value": 2020.1001090082498
+                                                          }
+                                                        }
+                                                      }
+                                                    ],
+                                                    "name": "NODE_0000005",
+                                                    "node_attrs": {
+                                                      "div": 0.013653107562924609,
+                                                      "num_date": {
+                                                        "value": 2019.9564646278402
+                                                      }
+                                                    }
+                                                  }
+                                                ],
+                                                "name": "NODE_0000038",
+                                                "node_attrs": {
+                                                  "div": 0.011947240320483617,
+                                                  "num_date": {
+                                                    "value": 2019.5084837620605
+                                                  }
+                                                }
+                                              }
+                                            ],
+                                            "name": "NODE_0000034",
+                                            "node_attrs": {
+                                              "div": 0.011947240320483598,
+                                              "num_date": {
+                                                "value": 2019.5084837620605
+                                              }
+                                            }
+                                          }
+                                        ],
+                                        "name": "NODE_0000002",
+                                        "node_attrs": {
+                                          "div": 0.011947240320483579,
+                                          "num_date": {
+                                            "value": 2019.3639926639141
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000001",
+                                    "node_attrs": {
+                                      "div": 0.008532109931257425,
+                                      "num_date": {
+                                        "value": 2018.6006010861558
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000009",
+                                "node_attrs": {
+                                  "div": 0.007395275843676746,
+                                  "num_date": {
+                                    "value": 2018.1298238513193
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000010",
+                            "node_attrs": {
+                              "div": 0.006258684558129363,
+                              "num_date": {
+                                "value": 2017.8312883034089
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000017",
+                        "node_attrs": {
+                          "div": 0.005122026403110004,
+                          "num_date": {
+                            "value": 2017.3312465727886
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000018",
+                    "node_attrs": {
+                      "div": 0.002274589706816949,
+                      "num_date": {
+                        "value": 2016.2476322841412
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000019",
+                "node_attrs": {
+                  "div": 0.0017061321125997802,
+                  "num_date": {
+                    "value": 2016.219025924005
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000020",
+            "node_attrs": {
+              "div": 0.0011376745181360455,
+              "num_date": {
+                "value": 2016.183185187145
+              }
+            }
+          }
+        ],
+        "name": "NODE_0000021",
+        "node_attrs": {
+          "div": 1.873471719282639e-17,
+          "num_date": {
+            "value": 2016.08059670267
+          }
+        }
+      }
+    ],
+    "name": "NODE_0000003",
+    "node_attrs": {
+      "div": 0,
+      "num_date": {
+        "value": 2016.0805967024755
+      }
+    }
+  },
+  "version": "v2"
+}
